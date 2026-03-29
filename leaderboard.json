@@ -11,6 +11,10 @@
         {
             "name": "Test2",
             "xp": 50
+        },
+        {
+            "name": "Fut | Sult",
+            "xp": 0
         }
     ]
 }
