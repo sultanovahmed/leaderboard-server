@@ -1,4 +1,15 @@
-[
-  { "name": "Test1", "xp": 100 },
-  { "name": "Test2", "xp": 50 }
-]
+{
+    "array": [
+        {
+            "name": "Test1",
+            "xp": 100
+        },
+        {
+            "name": "Test2",
+            "xp": 50
+        },
+        {
+            "name": "Ahmed2",
+            "xp": 0
+        }
+    ]
