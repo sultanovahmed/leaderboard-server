@@ -1,16 +1,16 @@
 {
     "array": [
         {
+            "name": "Sult",
+            "xp": 1400
+        },
+        {
             "name": "Test1",
             "xp": 100
         },
         {
             "name": "Test2",
             "xp": 50
-        },
-        {
-            "name": "Sult",
-            "xp": 0
         }
     ]
 }
