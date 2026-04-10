@@ -3,6 +3,10 @@
         {
             "name": "Fut | Sult",
             "xp": 4600
+        },
+        {
+            "name": "TestPC",
+            "xp": 0
         }
     ]
 }
