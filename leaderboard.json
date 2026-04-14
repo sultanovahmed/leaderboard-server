@@ -11,6 +11,10 @@
         {
             "name": "TestPC",
             "xp": 200
+        },
+        {
+            "name": "FUT | Sult",
+            "xp": 0
         }
     ]
 }
