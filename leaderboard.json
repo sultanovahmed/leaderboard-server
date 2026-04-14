@@ -5,12 +5,12 @@
             "xp": 17000
         },
         {
-            "name": "TestPC",
-            "xp": 200
+            "name": "ELOX",
+            "xp": 400
         },
         {
-            "name": "ELOX",
-            "xp": 0
+            "name": "TestPC",
+            "xp": 200
         }
     ]
 }
