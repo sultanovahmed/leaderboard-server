@@ -1,12 +1,12 @@
 {
     "array": [
         {
-            "name": "Fut | Sult",
-            "xp": 10000
-        },
-        {
             "name": "Durov",
             "xp": 3300
+        },
+        {
+            "name": "Fut | Sult",
+            "xp": 0
         }
     ]
 }
