@@ -8,5 +8,21 @@
             "name": "Durov",
             "xp": 3300
         }
+        {
+            "name": "Natural",
+            "xp": 2000
+        }
+        {
+            "name": "PDF",
+            "xp": 1650
+        }
+        {
+            "name": "Epstein",
+            "xp": 40000
+        }
+        {
+            "name": "test",
+            "xp": 0
+        }
     ]
 }
