@@ -5,6 +5,10 @@
             "xp": 40000
         },
         {
+            "name": "Fut | Sult",
+            "xp": 28000
+        },
+        {
             "name": "Durov",
             "xp": 3500
         },
@@ -15,10 +19,6 @@
         {
             "name": "PDF",
             "xp": 1650
-        },
-        {
-            "name": "Fut | Sult",
-            "xp": 1400
         },
         {
             "name": "test",
